@@ -3,6 +3,7 @@ import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import Highlights from './components/Highlights'
 import VideoCarousel from './components/VideoCarousel'
+import Features from './components/Feature'
 
 function App() {
 
@@ -12,6 +13,7 @@ function App() {
       <Hero />
       <Highlights />
       <VideoCarousel />
+      <Features />
     </div>
   )
 }
