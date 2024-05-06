@@ -5,6 +5,7 @@ import Highlights from './components/Highlights'
 import VideoCarousel from './components/VideoCarousel'
 import Features from './components/Feature'
 import HowItWorks from './components/HowItWork'
+import Footer from './components/Footer'
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
       <VideoCarousel />
       <Features />
       <HowItWorks />
+      <Footer />
     </div>
   )
 }
