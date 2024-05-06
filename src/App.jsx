@@ -4,6 +4,7 @@ import Hero from './components/Hero'
 import Highlights from './components/Highlights'
 import VideoCarousel from './components/VideoCarousel'
 import Features from './components/Feature'
+import HowItWorks from './components/HowItWork'
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
       <Highlights />
       <VideoCarousel />
       <Features />
+      <HowItWorks />
     </div>
   )
 }
